@@ -2,11 +2,14 @@
 
 Introduction aux techniques de deep learning et formation à pytorch et à la logique modulaire.
 
-Parmi les plus jolis cours sur pytorch: [lien](https://uvadlc-notebooks.readthedocs.io/en/latest/)
+Ces tutoriels sont directement inspirés de la documentation officielle pytorch, qui est très bien faite: [lien](https://pytorch.org/tutorials/)
+
+En alternative à ce git: parmi les plus jolis cours sur pytorch: [lien](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 
 # 1. Prise en main de pytorch
 
-* Notebook 1_1: Nouvelle structure de données (tensor)
+* Notebook 0: Nouvelle structure de données (tensor) [pour ceux qui ne connaissent pas numpy]
+* Notebook 1_1: Tensor, plus d'opérateurs, quelques petits exercices
 * Notebook 1_2: Définition du gradient et différentiation automatique
     * Graphe de calcul, gradient et propagation de l'erreur
     * Optimisation 

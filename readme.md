@@ -17,10 +17,17 @@ En alternative à ce git: parmi les plus jolis cours sur pytorch: [lien](https:/
 * Notebook 1_3: Construction d'un réseau de neurone simple
     * Checkpointing
     * Tensorboard
-* Notebook 1_4: Outils connexes et modules avancés
+* Notebook 1_4: Outils connexes et modules avancés 
     * Chaine d'apprentissage standard
     * Régularisation
 
+
+**En version colab** pour ceux qui ont des problèmes d'installation:
+* Notebook 0: [lien](https://drive.google.com/file/d/1swmO4WyCXb2TZB_MFHY1kj7ZFOwdFA0R/view?usp=sharing)
+* Notebook 1_1: [lien](https://drive.google.com/file/d/1e80ZbY2F-NQWDwLNhetTJPQtA9J8Ghzr/view?usp=share_link)
+* Notebook 1_2: [lien](https://drive.google.com/file/d/12THYwuPXH-nzsXP63dJOcQhbD8m6so4Q/view?usp=share_link)
+* Notebook 1_3: [lien](https://drive.google.com/file/d/1158XtT32ODqgwMSnh0JLrBn1L3ImzJfl/view?usp=share_link)
+* Notebook 1_4: [lien](https://drive.google.com/file/d/1RmoMbB9NRDLhIj7dQXc9aSl3H1pMj36w/view?usp=share_link)
 
 # 2. Architecture à convolution et récurrentes
 

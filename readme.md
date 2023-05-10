@@ -31,5 +31,7 @@ En alternative à ce git: parmi les plus jolis cours sur pytorch: [lien](https:/
 
 # 2. Architecture à convolution et récurrentes
 
-* Cas MNIST
-* Reflexion sur les architectures à convolution
+* Notebook 0: qu'est ce qu'une convolution, comment paramétrer le module, comment jouer avec?
+* Notebook 1: première(s) architecture(s) à convolution
+** Cas MNIST: récupération des données
+* Notebook 2: introspection des modèles et interprétation post-hoc

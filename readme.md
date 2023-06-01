@@ -35,3 +35,11 @@ En alternative à ce git: parmi les plus jolis cours sur pytorch: [lien](https:/
 * Notebook 1: première(s) architecture(s) à convolution
    * Cas MNIST: récupération des données
 * Notebook 2: introspection des modèles et interprétation post-hoc
+
+# 3. Apprentissage de représentation
+
+Apprendre des représentations continues (et optimisables) pour tous les *objets* qui nous intéressent, en particulier les objets discrets (mots, utilisateurs, produits)
+
+* Notebook 1: Système de recommandation
+* Notebook 2: Apprentissage de représentation des mots
+

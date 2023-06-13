@@ -43,3 +43,10 @@ Apprendre des représentations continues (et optimisables) pour tous les *objets
 * Notebook 1: Système de recommandation
 * Notebook 2: Apprentissage de représentation des mots
 
+# 4. Architectures récurrentes
+
+Idéales pour traiter des séquences et en particulier des séquences de longueurs variables d'un exemple à l'autre.
+
+* Notebook 1: Représentation d'une chaine de caractères
+
+
